@@ -3,7 +3,6 @@
 Machine Learning project for predicting 5G Network Res Federated Learning-Based Network Resource Allocation Prediction
 
  Overview
-
 This project predicts 5G network resource allocation 
 using Machine Learning and demonstrates a Federated Learning simulation for privacy-preserving decentralized model training.
 
