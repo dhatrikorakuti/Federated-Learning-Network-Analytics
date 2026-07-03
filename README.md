@@ -1,7 +1,5 @@
 [README.md.txt](https://github.com/user-attachments/files/29638161/README.md.txt)
 # Federated-Learning-Network-Analytics
-Machine Learning project for predicting 5G Network Res Federated Learning-Based Network Resource Allocation Prediction
-
  Overview
 This project predicts 5G network resource allocation 
 using Machine Learning and demonstrates a Federated Learning simulation for privacy-preserving decentralized model training.
